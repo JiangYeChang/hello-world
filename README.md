@@ -1,2 +1,5 @@
 # hello-world
-你好，世界！开始练习使用GitHub。
+
+Hi Humans!
+
+Bloom here, this is some keywords: 谨言慎行，厚积薄发，持之以恒.
